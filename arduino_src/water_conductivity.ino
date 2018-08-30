@@ -68,5 +68,5 @@ Serial.println(TDS);
 // if(returnVoltage>4.9) Serial.println("Are you sure this isn't metal?");
 
 
-delay(3000);
+delay(1800);
 }
