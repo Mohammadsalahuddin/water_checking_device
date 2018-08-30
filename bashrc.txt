@@ -1,0 +1,10 @@
+open termial
+sudo nano .bashrc
+add them at the end
+save and exit
+
+
+
+ echo Running at boot
+ sudo python /home/pi/sirbutton.py
+
